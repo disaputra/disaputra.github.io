@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background-color: grey;
+	margin-top: 20%
+}
+.ledStatus{
+	color: white;
+	font-family: verdana;
+}
+
+.ledButton{
+	font-size: 1.5em;
+	font-family: verdana;
+	padding: 10px;
+}
